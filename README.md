@@ -20,5 +20,5 @@
     * Optimal Cutoff: 0.104, intersection of TPR and TNR 
     * KS-statistic: Plot TPR against FPR, and find the cutoff that maximizes the difference
 * **Evaluation and Parameter Tuning**: 
-    * H20: GBM model with max_depth = 4 after tuning gives 0.9 AUC
-    * AutoML: stacked ensemble gives 0.91 AUC
+    * H20: GBM model with max_depth = 4 after tuning gives 0.905 AUC
+    * AutoML: stacked ensemble gives 0.899 AUC
